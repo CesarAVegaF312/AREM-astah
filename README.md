@@ -74,4 +74,4 @@ astah-modelado/
 
 ## Licencia
 
-Este repositorio es de uso académico bajo licencia MIT. Los modelos fueron creados para fines educativos en el marco del curso de Arquitectura Empresarial.
+© César Augusto Vega Fernández. Material del curso Arquitectura Empresarial, Universidad de La Sabana, bajo licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
