@@ -23,7 +23,7 @@ Este repositorio guía a estudiantes y desarrolladores en el uso de **Astah UML 
 2. Descarga **Astah UML** (NO la versión Professional).
 3. Ejecuta el instalador en tu sistema operativo (Windows, macOS, Linux).
 4. Para configurar tu licencia gratuita de estudiante, sigue esta guía:  
-   https://astah.net/support/set-student-license/?submissionGuid=8b38f78a-ef65-4732-98fa-dc98746fd4d7
+   https://astah.net/support/set-student-license/
 
 ---
 
