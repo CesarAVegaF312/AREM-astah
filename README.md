@@ -1,12 +1,12 @@
 # Uso de Astah UML para Modelado de Arquitectura Empresarial
 
-Este repositorio guía a estudiantes y desarrolladores en el uso de **Astah UML (versión gratuita para estudiantes)** para realizar diagramas y modelos utilizados en arquitectura de software y sistemas empresariales.
+Este repositorio ya no se mantiene. La guía de instalación de Astah UML y el ejemplo del sistema de citas médicas ahora están en el repositorio de notación del curso:
 
----
+**[AREM-ArchiMate → herramientas/astah_uml.md](https://github.com/CesarAVegaF312/AREM-ArchiMate/blob/main/herramientas/astah_uml.md)**
 
 ## ¿Qué es Astah UML?
 
-[Astah UML](https://astah.net/products/astah-uml/) es una herramienta de modelado visual gratuita para estudiantes, que permite crear diagramas UML como:
+## Licencia
 
 - Diagramas de clases
 - Casos de uso
